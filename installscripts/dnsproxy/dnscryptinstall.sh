@@ -3,7 +3,7 @@
 
 ## Download
 cd /etc/piadvanced/installscripts/dnsproxy
-sudo wget https://download.dnscrypt.org/dnscrypt-proxy/LATEST.tar.bz2
+sudo wget https://github.com/jedisct1/dnscrypt-proxy/releases/download/2.0.0/dnscrypt-proxy-linux_x86_64-2.0.0.tar.gz
 sudo tar -xf LATEST.tar.bz2
 #sudo rm LATEST.tar.bz2
 
